@@ -1,1 +1,3 @@
-# Image-Classification: Tea Plant Disease Classification
+# Image-Classification: Tea Leaf Disease Classification
+
+
